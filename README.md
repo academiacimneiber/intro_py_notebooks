@@ -23,3 +23,10 @@
    * [Ámbito de la Variable](https://colab.research.google.com/drive/136YTRDY6IDL2hYEqqfE7ArMvoFmEpO9z?usp=sharing)
    * [Parámetros](https://colab.research.google.com/drive/1yx18wqS5tL5YmwIyFwzUZSO8NXo2VVJg?usp=sharing)
    * [Módulos, Paquetes y Librerías](#)
+
+#### Trabajos Prácticos
+
+1. Lenguajes de programación (no tiene Notebook)
+2. [Estructuras de control](https://colab.research.google.com/drive/1ibzFvDefTLB8LxMmtKYnVCnDjxkCI6sN?usp=sharing)
+3. [Tipos de datos contenedores](https://colab.research.google.com/drive/1-mSZt4M_hkXsjSlcJJcObLo7tdtpWFPT?usp=sharing)
+4. [Funciones pt.1](https://colab.research.google.com/drive/1uvXfw2vDeVSVCumJHMP3TSLTnkhHHqBu?usp=sharing)
