@@ -10,12 +10,12 @@
 2. [Introducción a Python](https://colab.research.google.com/drive/12Eb2gh-wQsx29TeFGsWyt-RTw77qbmjT?usp=sharing)
 3. [Estructuras de control](https://colab.research.google.com/drive/1D4SBAGUnkWX8GPE0DtA6Am5F9HwgK93M?usp=sharing)
 4. Tipos de dato contenedores
-   * [Cadenas - str](https://colab.research.google.com/drive/12hQqnkFlNzB-fJtDeaoVz4U8oBffBt2a?usp=sharing)
-   * [Listas - list](https://colab.research.google.com/drive/13DzKqdjwMWd6YgtfQOakP_bKwqiV_f8b?usp=sharing)
-   * [Tuplas - tuple](https://colab.research.google.com/drive/1KgbL-npCuuNUZH3_Ez2ITRtPETUrKRpY?usp=sharing)
-   * [Secuencias](https://colab.research.google.com/drive/1-wgogIAVFi-gmdJSA_ccsUXW1iAP4hPK?usp=sharing)
-   * [Ciclos for o incondicionales](https://colab.research.google.com/drive/1qbyh3bv7mjC54PVA9n3rZfclDo9WDfjo?usp=sharing)
-   * [Diccionarios - dict](https://colab.research.google.com/drive/1G6ctHOMgzw13lg2my1xuDdoy4yeSb8z_?usp=sharing)
+   * [Cadenas - str](https://colab.research.google.com/drive/1kmePu-pQfOxsGcWffDQ1wshaBeZYqa8H?usp=sharing)
+   * [Listas - list](https://colab.research.google.com/drive/1xjJ_jMMp7CUSrGCMspCgq6kYlfOAddGe?usp=sharing)
+   * [Tuplas - tuple](https://colab.research.google.com/drive/1AKglA9PsAzpn1p0TVEspkiqCjBCCeiiZ?usp=sharing)
+   * [Secuencias](https://colab.research.google.com/drive/1mgbPdwdxUlVe_yzY8HJtrCeOAi_sgUOC?usp=sharing)
+   * [Ciclos for o incondicionales](https://colab.research.google.com/drive/1GrzU2tQ8ZLP7U5y0a66LO4lalyKsBFg6?usp=sharing)
+   * [Diccionarios - dict](https://colab.research.google.com/drive/1Vf8FZ3MVbMbR-eFsjDgQvTlnBD1vYoCr?usp=sharing)
 5. Funciones
    * [Modularización](https://colab.research.google.com/drive/1ffIz-EwbN2YLJbBdDdK5471XLwChVAlP?usp=sharing)
    * [Funciones de Primer Nivel o Built-In](https://colab.research.google.com/drive/1VQS9Y75XCv3RDo094loz9YT4pg4DE-8p?usp=sharing)
